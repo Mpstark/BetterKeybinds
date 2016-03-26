@@ -1,3 +1,5 @@
+Copy modBetterKeybinds into your %GAMEDIR%\mods directory
+
 input.xml location: %GAMEDIR%\bin\config\r4game\user_config_matrix\pc\input.xml
 
 - Backup old input.xml
