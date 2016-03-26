@@ -1,0 +1,12 @@
+NEW KEYBINDS:
+- Cast Signs directly
+- Use Quickslot items directly
+- Sheathe either sword
+- Cancel Aiming Mode
+
+FIX BUGS:
+- Ciri double tap WASD to dodge
+
+OTHER:
+- Allow for double keybinds on certain actions? Might not be possible
+- Allow for more overlap between binds
