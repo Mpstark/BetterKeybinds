@@ -85,6 +85,13 @@
 			<Var builder="Input" id="SelectQuen"				displayName="select_quen"						displayType="INPUTPC" actions="SelectQuen"/>
 			<Var builder="Input" id="SelectAxii"				displayName="select_axii"						displayType="INPUTPC" actions="SelectAxii"/>
 			
+			<!-- BetterKeybinds START -->
+			<Var builder="Input" id="CastAard"					displayName="bk_cast_aard"						displayType="INPUTPC" actions="CastAard"/>
+			<Var builder="Input" id="CastYrden"					displayName="bk_cast_yrden"						displayType="INPUTPC" actions="CastYrden"/>
+			<Var builder="Input" id="CastIgni"					displayName="bk_cast_igni"						displayType="INPUTPC" actions="CastIgni"/>
+			<Var builder="Input" id="CastQuen"					displayName="bk_cast_quen"						displayType="INPUTPC" actions="CastQuen"/>
+			<Var builder="Input" id="CastAxii"					displayName="bk_cast_axii"						displayType="INPUTPC" actions="CastAxii"/>
+			<!-- BetterKeybinds END-->
 			
 			<!-- Panels -->		
 			<Var builder="Input" id="ChangeQuest"				displayName="ControlLayout_ChangeQuest"			displayType="INPUTPC" actions="HighlightObjective;TrackQuest"/>
