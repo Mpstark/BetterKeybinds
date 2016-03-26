@@ -83,6 +83,12 @@
 			<!-- Shortcuts -->		
 			<Var builder="Input" id="SteelSword"				displayName="draw_steel"						displayType="INPUTPC" actions="SteelSword;SwordSheatheSteel;CiriDrawWeapon"/>
 			<Var builder="Input" id="SilverSword"				displayName="draw_silver"						displayType="INPUTPC" actions="SilverSword;SwordSheatheSilver;CiriDrawWeaponAlternative"/>
+			
+			<!-- BetterKeybinds START -->
+			<Var builder="Input" id="bk_DrawAuto"				displayName="bk_draw_auto"						displayType="INPUTPC" actions="bk_DrawAuto;bk_DrawAuto_Ciri"/>
+			<Var builder="Input" id="bk_Sheathe"				displayName="bk_sheathe"						displayType="INPUTPC" actions="SwordSheathe"/>
+			<!-- BetterKeybinds END-->
+			
 			<Var builder="Input" id="SelectAard"				displayName="select_aard"						displayType="INPUTPC" actions="SelectAard"/>
 			<Var builder="Input" id="SelectYrden"				displayName="select_yrden"						displayType="INPUTPC" actions="SelectYrden"/>
 			<Var builder="Input" id="SelectIgni"				displayName="select_igni"						displayType="INPUTPC" actions="SelectIgni"/>

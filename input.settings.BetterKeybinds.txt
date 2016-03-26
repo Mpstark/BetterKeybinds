@@ -1,3 +1,7 @@
+[BASE_DRAW_SWORDS]
+IK_None=(Action=bk_DrawAuto)
+IK_None=(Action=bk_DrawAuto_Ciri)
+
 [BASE_Items]
 IK_None=(Action=ToggleQuickSlot)
 
@@ -15,6 +19,8 @@ IK_None=(Action=CastIgni)
 IK_None=(Action=CastYrden)
 IK_None=(Action=CastAxii)
 IK_None=(Action=ToggleQuickSlot)
+IK_None=(Action=bk_DrawAuto)
+IK_None=(Action=bk_DrawAuto_Ciri)
 
 [Combat]
 IK_None=(Action=CastQuen)
@@ -23,3 +29,5 @@ IK_None=(Action=CastIgni)
 IK_None=(Action=CastYrden)
 IK_None=(Action=CastAxii)
 IK_None=(Action=ToggleQuickSlot)
+IK_None=(Action=bk_DrawAuto)
+IK_None=(Action=bk_DrawAuto_Ciri)

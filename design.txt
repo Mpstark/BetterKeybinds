@@ -5,6 +5,7 @@ NEW KEYBINDS:
 - Sheathe either sword
 - Cancel Aiming
 - toggle next item
+- quickload
 
 FIX BUGS:
 - Ciri double tap WASD to dodge
