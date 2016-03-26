@@ -4,6 +4,7 @@ NEW KEYBINDS:
 - Get out most approiate sword
 - Sheathe either sword
 - Cancel Aiming
+- toggle next item
 
 FIX BUGS:
 - Ciri double tap WASD to dodge

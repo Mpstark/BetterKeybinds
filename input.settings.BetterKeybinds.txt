@@ -1,3 +1,6 @@
+[BASE_Items]
+IK_None=(Action=ToggleQuickSlot)
+
 [BASE_Signs]
 IK_None=(Action=CastQuen)
 IK_None=(Action=CastAard)
@@ -11,6 +14,7 @@ IK_None=(Action=CastAard)
 IK_None=(Action=CastIgni)
 IK_None=(Action=CastYrden)
 IK_None=(Action=CastAxii)
+IK_None=(Action=ToggleQuickSlot)
 
 [Combat]
 IK_None=(Action=CastQuen)
@@ -18,3 +22,4 @@ IK_None=(Action=CastAard)
 IK_None=(Action=CastIgni)
 IK_None=(Action=CastYrden)
 IK_None=(Action=CastAxii)
+IK_None=(Action=ToggleQuickSlot)

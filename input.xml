@@ -49,6 +49,10 @@
 			<Var builder="Input" id="CastSign"					displayName="ControlLayout_CastSign"			displayType="INPUTPC" actions="CastSign;CastSignHold;VehicleCastSign;CiriSpecialAttack"/>
 			<Var builder="Input" id="ToggleSigns"				displayName="toggle_between_signs"				displayType="INPUTPC" actions="ToggleSigns"/>
 					
+			<!-- BetterKeybinds START -->
+			<Var builder="Input" id="ToggleQuickSlot"			displayName="bk_toggle_quickslot"				displayType="INPUTPC" actions="ToggleQuickSlot"/>
+			<!-- BetterKeybinds END-->
+			
 			<!-- Items -->		
 			<Var builder="Input" id="ThrowItem"					displayName="ControlLayout_UseQuickSlot"		displayType="INPUTPC" actions="ThrowItem;ThrowItemHold;VehicleItemAction;VehicleItemActionHold"/>
 					

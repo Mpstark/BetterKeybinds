@@ -1,11 +1,11 @@
 ;meta[language=en]
 ; id      |key(hex)|key(str)| text
 ;
-; ids used in the csv file are between 211nnnn000 and 211nnnn999. 1000 ids per file "should be enough for everybody
-; initial id will be 4573
-; Signs
+; 4573 is my domain
+;
 2114573000|        |bk_cast_aard|Cast Aard
 2114573001|        |bk_cast_yrden|Cast Yrden
 2114573002|        |bk_cast_igni|Cast Igni
 2114573003|        |bk_cast_quen|Cast Quen
 2114573004|        |bk_cast_axii|Cast Axii
+2114573005|        |bk_toggle_quickslot|Toggle Quickslot
