@@ -1,8 +1,9 @@
 NEW KEYBINDS:
 - Cast Signs directly
 - Use Quickslot items directly
+- Get out most approiate sword
 - Sheathe either sword
-- Cancel Aiming Mode
+- Cancel Aiming
 
 FIX BUGS:
 - Ciri double tap WASD to dodge
