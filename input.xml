@@ -33,6 +33,7 @@
 					
 			<!-- BetterKeybinds START -->
 			<Var builder="Input" id="BK_TargetNearest"			displayName="bk_target_nearest"					displayType="INPUTPC" actions="BK_TargetNearest"/>
+			<Var builder="Input" id="BK_TargetNext"				displayName="bk_target_next"					displayType="INPUTPC" actions="BK_TargetNext"/>
 			<!-- BetterKeybinds END -->
 			
 			<!-- Interactions -->		

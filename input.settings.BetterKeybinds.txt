@@ -19,6 +19,7 @@ IK_None=(Action=BK_CastYrden)
 IK_None=(Action=BK_CastAxii)
 IK_None=(Action=BK_ToggleQuickSlot)
 IK_None=(Action=BK_DrawAuto)
+IK_None=(Action=BK_TargetNext)
 IK_None=(Action=BK_TargetNearest) 
 
 [Combat]
@@ -29,4 +30,5 @@ IK_None=(Action=BK_CastYrden)
 IK_None=(Action=BK_CastAxii)
 IK_None=(Action=BK_ToggleQuickSlot)
 IK_None=(Action=BK_DrawAuto)
+IK_None=(Action=BK_TargetNext)
 IK_None=(Action=BK_TargetNearest)
