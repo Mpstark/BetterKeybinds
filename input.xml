@@ -31,6 +31,10 @@
 			<!-- Camera -->					
 			<Var builder="Input" id="CameraLock"				displayName="camera_lock"						displayType="INPUTPC" actions="CameraLock"/>
 					
+			<!-- BetterKeybinds START -->
+			<Var builder="Input" id="BK_TargetNearest"			displayName="bk_target_nearest"					displayType="INPUTPC" actions="BK_TargetNearest"/>
+			<!-- BetterKeybinds END -->
+			
 			<!-- Interactions -->		
 			<Var builder="Input" id="Interaction"				displayName="ControlLayout_Interact"			displayType="INPUTPC" actions="PickOilLamp;PlaceOilLamp;PlaceCrystal;SitDown;Knock;Spare;Unequip;FastTravel;GatherHerbs;Examine;EnterBoat;EnterBoatFromSwimming;MountHorse;Talk;Container;Interact;InteractHold;Use;UseDevice;Open;Close;Lock;Unlock;Take;Push;Pull;Locked;Finisher;Destroy;PrayForSun;PrayForStorm;Arm;Disarm;GatherBrushwood;PlaceHerbs;Drink;PlaceOffering;Grab;Free;Ignite;UnblockGate;UseItem;Read;PullAxe;Interaction;Extinguish;CallJohnny;HideBible;SitAndWait;PlaceBottle;WineSlot;BurnBody" tags="input_overlap3"/>
 					
@@ -50,7 +54,8 @@
 			<Var builder="Input" id="ToggleSigns"				displayName="toggle_between_signs"				displayType="INPUTPC" actions="ToggleSigns"/>
 					
 			<!-- BetterKeybinds START -->
-			<Var builder="Input" id="ToggleQuickSlot"			displayName="bk_toggle_quickslot"				displayType="INPUTPC" actions="ToggleQuickSlot"/>
+			<Var builder="Input" id="BK_ToggleQuickSlot"		displayName="bk_toggle_quickslot"				displayType="INPUTPC" actions="BK_ToggleQuickSlot"/>
+			<Var builder="Input" id="BK_CancelAiming"			displayName="bk_cancel_aiming"					displayType="INPUTPC" actions="ThrowCastAbort" tags="input_overlap2"/>
 			<!-- BetterKeybinds END-->
 			
 			<!-- Items -->		
@@ -69,7 +74,7 @@
 			
 			<!-- Swimming -->
 			<Var builder="Input" id="DiveUp"					displayName="ControlLayout_Emerge"				displayType="INPUTPC" actions="DiveUp" tags="input_overlap2"/>
-			<Var builder="Input" id="DiveDown"					displayName="ControlLayout_Dive"				displayType="INPUTPC" actions="DiveDown"/>
+			<Var builder="Input" id="DiveDown"					displayName="ControlLayout_Dive"				displayType="INPUTPC" actions="DiveDown" tags="input_overlap5"/>
 			
 			<!-- Radial -->		
 			<Var builder="Input" id="RadialMenu"				displayName="ControlLayout_RadialMenu"			displayType="INPUTPC" actions="RadialMenu"/>
@@ -85,8 +90,8 @@
 			<Var builder="Input" id="SilverSword"				displayName="draw_silver"						displayType="INPUTPC" actions="SilverSword;SwordSheatheSilver;CiriDrawWeaponAlternative"/>
 			
 			<!-- BetterKeybinds START -->
-			<Var builder="Input" id="bk_DrawAuto"				displayName="bk_draw_auto"						displayType="INPUTPC" actions="bk_DrawAuto;bk_DrawAuto_Ciri"/>
-			<Var builder="Input" id="bk_Sheathe"				displayName="bk_sheathe"						displayType="INPUTPC" actions="SwordSheathe"/>
+			<Var builder="Input" id="BK_DrawAuto"				displayName="bk_draw_auto"						displayType="INPUTPC" actions="BK_DrawAuto" tags="input_overlap5"/>
+			<Var builder="Input" id="BK_Sheathe"				displayName="bk_sheathe"						displayType="INPUTPC" actions="SwordSheathe" tags="input_overlap5"/>
 			<!-- BetterKeybinds END-->
 			
 			<Var builder="Input" id="SelectAard"				displayName="select_aard"						displayType="INPUTPC" actions="SelectAard"/>
@@ -96,11 +101,11 @@
 			<Var builder="Input" id="SelectAxii"				displayName="select_axii"						displayType="INPUTPC" actions="SelectAxii"/>
 			
 			<!-- BetterKeybinds START -->
-			<Var builder="Input" id="CastAard"					displayName="bk_cast_aard"						displayType="INPUTPC" actions="CastAard"/>
-			<Var builder="Input" id="CastYrden"					displayName="bk_cast_yrden"						displayType="INPUTPC" actions="CastYrden"/>
-			<Var builder="Input" id="CastIgni"					displayName="bk_cast_igni"						displayType="INPUTPC" actions="CastIgni"/>
-			<Var builder="Input" id="CastQuen"					displayName="bk_cast_quen"						displayType="INPUTPC" actions="CastQuen"/>
-			<Var builder="Input" id="CastAxii"					displayName="bk_cast_axii"						displayType="INPUTPC" actions="CastAxii"/>
+			<Var builder="Input" id="BK_CastAard"				displayName="bk_cast_aard"						displayType="INPUTPC" actions="BK_CastAard"/>
+			<Var builder="Input" id="BK_CastYrden"				displayName="bk_cast_yrden"						displayType="INPUTPC" actions="BK_CastYrden"/>
+			<Var builder="Input" id="BK_CastIgni"				displayName="bk_cast_igni"						displayType="INPUTPC" actions="BK_CastIgni"/>
+			<Var builder="Input" id="BK_CastQuen"				displayName="bk_cast_quen"						displayType="INPUTPC" actions="BK_CastQuen"/>
+			<Var builder="Input" id="BK_CastAxii"				displayName="bk_cast_axii"						displayType="INPUTPC" actions="BK_CastAxii"/>
 			<!-- BetterKeybinds END-->
 			
 			<!-- Panels -->		
