@@ -23,15 +23,18 @@ Install Instructions
 ----
 
 Step 1: Install script mod
+
 	- Copy modBetterKeybinds into your %GAMEDIR%\mods directory
 
 Step 2: Install new rebind menu
+
 	- input.xml location: %GAMEDIR%\bin\config\r4game\user_config_matrix\pc\input.xml
 	- Backup old input.xml (I normally zip into input.xml.old.zip)
 	- Copy new one and overwrite
 	- If have a mod that already changes this file, you can easily merge the two, my changes are clearly marked, though I would use mine as a base
 
 Step 3: Add in new keybinds (not bound to anything)
+
 	- input.settings default location: %My Documents%\The Witcher 3\input.settings
 	- Backup old input.settings
 	- Open input.settings.BetterKeybinds.txt
