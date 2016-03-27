@@ -1,23 +1,23 @@
 What Is It
 ---
 
-BetterKeybinds is a Witcher 3 mod that adds additional keybinds for PC players to be able to use all of their awesome buttons as well as makes a slight tweak to the HardLock mechanic so that it doesn't track the camera (subject to change).
+BetterKeybinds is a Witcher 3 mod that adds additional keybinds for PC players to be able to use all of their awesome buttons as well as introduces a target system that uses a hybrind HardLock (without CameraLock) so that you can keep a target without the camera tracking it.
 
 New Keybinds:
 ---
 
-New Keybinds | Planned | Implemented 
----|---|---
-Instant Cast Signs | ✓ | ✓
-Toggle Next Quickslot | ✓ | ✓
-Draw Auto Sword | ✓ | ✓ (WIP)
-Instant Use Quickslot | ✓ | 
-Sheathe Either Sword | ✓ | ✓
-Cancel Aiming | ✓ | ✓
-Target Closest | ✓ | ✓
-Target Cycle | ✓ | ✓ (WIP)
-Discard Target | ✓ | 
-Alternate Keybinds | ? |  
+New Keybinds | Implemented 
+---|---
+Instant Cast Signs | ✓
+Toggle Next Quickslot | ✓
+Draw Auto Sword | ✓ (WIP)
+Instant Use Quickslot | 
+Sheathe Either Sword | ✓
+Cancel Aiming | ✓ 
+Target Closest | ✓ 
+Target Cycle | ✓ (WIP)
+Discard Target | 
+Alternate Keybinds | ? 
 
 Install Instructions
 ----

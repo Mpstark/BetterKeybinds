@@ -34,6 +34,7 @@
 			<!-- BetterKeybinds START -->
 			<Var builder="Input" id="BK_TargetNearest"			displayName="bk_target_nearest"					displayType="INPUTPC" actions="BK_TargetNearest"/>
 			<Var builder="Input" id="BK_TargetNext"				displayName="bk_target_next"					displayType="INPUTPC" actions="BK_TargetNext"/>
+			<Var builder="Input" id="BK_TargetDiscard"			displayName="bk_target_discard"					displayType="INPUTPC" actions="BK_TargetDiscard"/>
 			<!-- BetterKeybinds END -->
 			
 			<!-- Interactions -->		
