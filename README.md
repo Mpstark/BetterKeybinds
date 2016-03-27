@@ -16,8 +16,8 @@ Sheathe Either Sword | ✓
 Cancel Aiming | ✓ 
 Target Closest | ✓ 
 Target Cycle | ✓ (WIP)
-Discard Target | 
-Alternate Keybinds | ? 
+Discard Target | ✓
+Alternate Keybinds | for what? 
 
 Install Instructions
 ----
