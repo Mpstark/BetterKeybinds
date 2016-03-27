@@ -3,6 +3,8 @@ IK_None=(Action=BK_DrawAuto)
 
 [BASE_Items]
 IK_None=(Action=BK_ToggleQuickSlot)
+IK_None=(Action=BK_ThrowBomb1)
+IK_None=(Action=BK_ThrowBomb2)
 
 [BASE_Signs]
 IK_None=(Action=BK_CastQuen)
@@ -22,6 +24,8 @@ IK_None=(Action=BK_DrawAuto)
 IK_None=(Action=BK_TargetNext)
 IK_None=(Action=BK_TargetNearest)
 IK_None=(Action=BK_TargetDiscard)
+IK_None=(Action=BK_ThrowBomb1)
+IK_None=(Action=BK_ThrowBomb2)
 
 [Combat]
 IK_None=(Action=BK_CastQuen)
@@ -34,3 +38,5 @@ IK_None=(Action=BK_DrawAuto)
 IK_None=(Action=BK_TargetNext)
 IK_None=(Action=BK_TargetNearest)
 IK_None=(Action=BK_TargetDiscard)
+IK_None=(Action=BK_ThrowBomb1)
+IK_None=(Action=BK_ThrowBomb2)

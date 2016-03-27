@@ -8,10 +8,11 @@ New Keybinds:
 
 New Keybinds | Implemented 
 ---|---
-Instant Cast Signs | ✓
+Instant Cast Signs | ✓ (No hold for alternate yet)
+Instant Throw Bombs | ✓ (No hold for aim yet)
 Toggle Next Quickslot | ✓
-Draw Auto Sword | ✓ (WIP)
-Instant Use Quickslot | 
+Switch to Specific Quickslot | 
+Draw Auto Sword | ✓
 Sheathe Either Sword | ✓
 Cancel Aiming | ✓ 
 Target Closest | ✓ 

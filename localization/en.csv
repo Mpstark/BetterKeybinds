@@ -15,3 +15,5 @@
 2114573009|        |bk_target_nearest|Target Nearest
 2114573010|        |bk_target_next|Next Target (Cycle)
 2114573011|        |bk_target_discard|Discard Target
+2114573012|        |bk_throw_bomb1|Throw Bomb 1
+2114573013|        |bk_throw_bomb2|Throw Bomb 2

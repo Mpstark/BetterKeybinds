@@ -58,6 +58,8 @@
 			<!-- BetterKeybinds START -->
 			<Var builder="Input" id="BK_ToggleQuickSlot"		displayName="bk_toggle_quickslot"				displayType="INPUTPC" actions="BK_ToggleQuickSlot"/>
 			<Var builder="Input" id="BK_CancelAiming"			displayName="bk_cancel_aiming"					displayType="INPUTPC" actions="ThrowCastAbort" tags="input_overlap2"/>
+			<Var builder="Input" id="BK_ThrowBomb1"				displayName="bk_throw_bomb1"					displayType="INPUTPC" actions="BK_ThrowBomb1"/>
+			<Var builder="Input" id="BK_ThrowBomb2"				displayName="bk_throw_bomb2"					displayType="INPUTPC" actions="BK_ThrowBomb2"/>
 			<!-- BetterKeybinds END-->
 			
 			<!-- Items -->		
